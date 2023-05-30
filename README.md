@@ -1,2 +1,3 @@
-# U.S-Soccer-League-Salaries-Analysis
+# USSoccerLeagueSalariesAnalysis
+
 Very simple data analysis project to practice Pandas
